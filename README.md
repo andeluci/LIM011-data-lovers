@@ -49,7 +49,7 @@
 ### Javascript
 
 - [X] Manipular arrays (`filter` | `map` | `sort` | `reduce`).
-- [X] Manipular objects (key | value).
+- [ ] Manipular objects (key | value).
 - [X] Entender el uso de condicionales (`if-else` | `switch`).
 - [ ] Entender el uso de bucles (`for` | `forEach`).
 - [ ] Entender la diferencia entre expression y statements.
