@@ -42,19 +42,19 @@
 
 ### DOM
 
-- [X] Entender y reconocer los selectores del DOM (querySelector | querySelectorAll).
+- [X] Entender y reconocer los selectores del DOM (querySelector | querySelectorAll). ?
 - [X] Manejar eventos del DOM. (addEventListener)
-- [X] Manipular dinámicamente el DOM. (createElement, appendchild, innerHTML, value)
+- [X] Manipular dinámicamente el DOM. (createElement, appendchild, innerHTML, value) ?
 
 ### Javascript
 
-- [X] Manipular arrays (`filter` | `map` | `sort` | `reduce`).
-- [ ] Manipular objects (key | value).
+- [X] Manipular arrays (`filter` | `map` | `sort` | `reduce`). ?
+- [ ] Manipular objects (key | value). ?
 - [X] Entender el uso de condicionales (`if-else` | `switch`).
-- [ ] Entender el uso de bucles (`for` | `forEach`).
-- [ ] Entender la diferencia entre expression y statements.
+- [ ] Entender el uso de bucles (`for` | `forEach`). ?
+- [ ] Entender la diferencia entre expression y statements. // 
 - [X] Utilizar funciones (parámetros | argumentos | valor de retorno).
-- [ ] Entender la diferencia entre tipos de datos atómicos y estructurados.
+- [ ] Entender la diferencia entre tipos de datos atómicos y estructurados. //
 - [X] Utilizar ES Modules (`import` | `export`).
 
 ### Pruebas Unitarias (_testing_)
@@ -66,8 +66,8 @@
 - [X] Colaborar en Github (pull requests).
 
 ### Buenas prácticas de desarrollo
-- [ ] Organizar y dividir el código en módulos (Modularización).
-- [ ] Utilizar identificadores descriptivos (Nomenclatura | Semántica).
+- [X] Organizar y dividir el código en módulos (Modularización).
+- [ ] Utilizar identificadores descriptivos (Nomenclatura | Semántica).?
 - [X] Utilizar linter para seguir buenas prácticas (ESLINT).
 
 ***
